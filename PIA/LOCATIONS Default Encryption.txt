@@ -14,6 +14,8 @@ CA Toronto (UDP),ca-toronto.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=c
 CA Toronto (TCP),ca-toronto.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 CA Vancouver (UDP),ca-vancouver.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 CA Vancouver (TCP),ca-vancouver.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Czech Republic (UDP),czech.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Czect Republic (TCP),czech.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Denmark (UDP),denmark.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Denmark (TCP),denmark.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Finland (UDP),fi.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
@@ -46,8 +48,6 @@ Romania (UDP),ro.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.
 Romania (TCP),ro.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Singapore (UDP),sg.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Singapore (TCP),sg.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
-South Korea (UDP),kr.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
-South Korea (TCP),kr.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Spain (UDP),spain.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Spain (TCP),spain.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Sweden (UDP),sweden.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
